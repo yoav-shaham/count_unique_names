@@ -12,7 +12,7 @@ git clone https://github.com/yoav-shaham/count_unique_names.git
 ```
 If you have python in your path you can just run directly from cmd.
 ```
-count_unique_names.py (billFirstName,billLastName,shipFirstName,shipLastName,billNameOnCard)
+count_unique_names.py "billFirstName" "billLastName" "shipFirstName" "shipLastName" "billNameOnCard"
 ```
 
 ## Important to note
