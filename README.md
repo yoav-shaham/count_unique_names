@@ -18,4 +18,6 @@ count_unique_names.py "billFirstName" "billLastName" "shipFirstName" "shipLastNa
 ## Important to note
 This script is relativly dynamic meaning it is easy to go inside and change values such as the prices and the threshhold for something to pass as a typo.
 
+You can enable the tests if you switch the Tests variable in the main to True.
+
 # ENJOY :)
